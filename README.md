@@ -1,1 +1,1 @@
-https://complete-ecommerce-project.vercel.app/
+https://papaya-toffee-0860d2.netlify.app/
